@@ -1,0 +1,57 @@
+Admin Controller
+ -admin validations
+ -admin functions
+    -create , delete , view , update
+
+
+---AJAX , JQUERY , ANGULARJS , CODEIGNITER  ----
+
+
+ Database
+ -tablename = EmpTable
+ -fields 
+ 	-id
+ 	-username
+ 	-password
+ 	-firstname
+ 	-lastname
+ 	-contact
+ 	-country
+ 	-date_created
+ 	-date_modified
+
+ 	
+9174537441
+
+ 	javascript scripts
+ 	jquery scripts
+ 	ajax scripts
+ 	angularjs scripts
+
+
+ Emp profile - view
+ Emp edit - edit
+
+
+ Jquery AJAX 
+ 	-all methods
+ 	-POST GET
+ 	-aralin m ung search prang sa google
+
+- accordion
+- blog
+- posting like fb (Table = EmpProfile -> id,username,numberOfPost)
+
+Function
+ - upload pic / doc
+ - create pdf file / excel
+ 
+
+ 2hr * 60m/1hr * 60s/1m	
+
+
+ OLX TYPE
+ SHOES
+ TSHIRTS
+ LAPTOPS
+ GADGETS
